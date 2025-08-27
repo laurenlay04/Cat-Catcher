@@ -1,0 +1,46 @@
+# =========================
+# Unity Generated Folders
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# =========================
+# Visual Studio / Rider / IDE files
+# =========================
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# =========================
+# OS Generated files
+# =========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+*.apk
+*.aab
+*.app
+*.unitypackage
+
+# =========================
+# Cache files
+# =========================
+sysinfo.txt
