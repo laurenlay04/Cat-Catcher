@@ -47,3 +47,8 @@ This project demonstrates basic game mechanics, scoring logic, and Unity 2D skil
 ## GIF of Gameplay
 
 ![CatGame](https://github.com/user-attachments/assets/5f75c9fb-32ca-4827-80bf-e6483f382ca8)
+### Option 1: Run in Unity
+1. Clone the repo:
+```bash
+git clone https://github.com/laurenlay04/Cat-Catcher.git
+
